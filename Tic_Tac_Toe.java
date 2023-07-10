@@ -188,7 +188,7 @@ class Board { // this is the our main public class
     }
 }
 
-public class Tic_Toc_Toe {
+public class Tic_Tac_Toe {
     public static void main(String args[]) {
 
         Scanner input = new Scanner(System.in);
